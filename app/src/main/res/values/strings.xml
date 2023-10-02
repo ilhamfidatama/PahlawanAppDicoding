@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pahlawan App Dicoding</string>
+    <string name="heroes_name">Pahlawan Nama</string>
+    <string name="heroes_description">lorem ipsum</string>
+    <string name="heroes_content_description">lorem ipsum</string>
+    <string name="description_title">Deskripsi</string>
 </resources>
